@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "デッド・パロディ・ダンス",
+  "base_artist": "ど～ぱみん",
+  "createdAt": "2026-03-01T14:23:14.350224Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "デッド・パロディ・ダンス",
+      "artist": "ど～ぱみん",
+      "has_synced": false,
+      "path": "select/pl_01_デッド・パロディ・ダンス_ど~ぱみん.txt"
+    }
+  ]
+}
